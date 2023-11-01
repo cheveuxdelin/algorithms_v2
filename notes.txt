@@ -1,0 +1,5 @@
+kadane's algorithm
+
+revisit lru
+
+project euler
